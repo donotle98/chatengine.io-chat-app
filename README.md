@@ -1,3 +1,8 @@
+<h1>Chat Application using react-chat-engine</h1>
+
+<img width="460" height="300" src="microsoft-teams/assets/login.png" />
+<img width="460" height="300" src="microsoft-teams/assets/dashboard.png"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
