@@ -1,7 +1,7 @@
 <h1>Chat Application using react-chat-engine</h1>
 
-<img width="460" height="300" src="microsoft-teams/assets/login.png" />
-<img width="460" height="300" src="microsoft-teams/assets/dashboard.png"/>
+<img width="460" height="300" src="https://github.com/donotle98/chatengine.io-chat-app/blob/master/assets/dashboard.png?raw=true" />
+<img width="460" height="300" src="https://github.com/donotle98/chatengine.io-chat-app/blob/master/assets/login.png?raw=true"/>
 
 # Getting Started with Create React App
 
